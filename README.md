@@ -1,4 +1,4 @@
-Hosted on GitHub pages at: <a href="https://ramkat.github.io/skills-github-pages/" target="_new">Click here<a>
+Hosted on GitHub pages at: <a href="https://ramkat.github.io/skills-github-pages/" target="_blank">Click here<a>
 <br>
 <div align="center">
 
